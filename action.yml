@@ -1,4 +1,4 @@
-name: Tagged
+name: Tag It
 description: Get tag name from GITHUB_REF environment variable
 branding:
   icon: tag
